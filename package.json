@@ -1,0 +1,15 @@
+{
+  "name": "uploadify",
+  "description": "uploadify version for legacy jquery code",
+  "keywords": [
+    "jcarousel"
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mahen3d/uploadify.git"
+  },
+  "author": "Mahen3D",
+  "license": "MIT",
+  "main": "./jquery.uploadifive.js"
+}
